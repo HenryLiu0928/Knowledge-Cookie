@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Knowledge Cookie
+
+https://knowledge-cookie.netlify.app/
+
+HTML CSS Javascript React 
+
+Database: Supabase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
